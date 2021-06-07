@@ -1,0 +1,14 @@
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\NEGOCIO\bin\Debug\NEGOCIO.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\NEGOCIO\bin\Debug\NEGOCIO.pdb
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\NEGOCIO\bin\Debug\ACESSODADOS.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\NEGOCIO\bin\Debug\ACESSODADOS.pdb
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\NEGOCIO\obj\Debug\NEGOCIO.csprojResolveAssemblyReference.cache
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\NEGOCIO\obj\Debug\NEGOCIO.dll
+c:\users\diocleciano da cruz\documents\visual studio 2015\Projects\SistemaElectronico\NEGOCIO\obj\Debug\NEGOCIO.pdb
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\NEGOCIO\bin\Debug\NEGOCIO.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\NEGOCIO\bin\Debug\NEGOCIO.pdb
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\NEGOCIO\bin\Debug\ACESSODADOS.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\NEGOCIO\bin\Debug\ACESSODADOS.pdb
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\NEGOCIO\obj\Debug\NEGOCIO.csprojResolveAssemblyReference.cache
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\NEGOCIO\obj\Debug\NEGOCIO.dll
+C:\Users\António Miguel\Documents\PROVA DE AED ADVOGADO ELE\SistemaElectronico\NEGOCIO\obj\Debug\NEGOCIO.pdb
